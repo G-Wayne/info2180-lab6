@@ -31,8 +31,17 @@ h1 {
   color: #808080;
 }
 
-/*Search button*/
+/*Search */
 #button{
+  background-color:#4169E1;
+  border-radius: 6px;
+  border-color: #4169E1;
+  font-family: serif;
+  padding: 4px;
+}
+
+/*Get All Defintions*/
+#definitions{
   background-color:#4169E1;
   border-radius: 6px;
   border-color: #4169E1;
